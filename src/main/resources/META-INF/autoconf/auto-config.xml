@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config description="anonybrains">
-    <group name="anonybrains">
-    </group>
-    <script>
-        <generate template="_application.properties" destfile="application.properties" charset="UTF-8"/>
-    </script>
-</config>
