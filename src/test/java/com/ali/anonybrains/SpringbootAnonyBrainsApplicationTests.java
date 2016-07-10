@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(classes = SpringbootAnonyBrainsApplication.class)
 @WebAppConfiguration
-public class SpringbootHelloworldApplicationTests {
+public class SpringbootAnonyBrainsApplicationTests {
 
 	@Test
 	public void contextLoads() {
